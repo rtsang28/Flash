@@ -1,0 +1,149 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<solar system>
+
+	<planet>
+		<Character>Data</Character>
+		<Planetname>		Mercury							</Planetname>
+		<Avgdiameter>		4,879 km						</Avgdiameter>
+		<Avgdistancefromsun>	57 million km (.387 AU)					</Avgdistancefromsun>
+		<Closesttoearth>	77.3 million km						</Closesttoearth>
+		<Type>			Terrestrial						</Type>
+		<Orbitperiod>		88 days							</Orbitperiod>
+		<Lengthofday>		58d 15h 30m						</Lengthofday>
+		<Escapevelocity>	4.25 km/s						</Escapevelocity>
+		<Satellites>		0							</Satellites>
+		<Brieffacts>		The closest planet to the sun. Also the smallest.	</Brieffacts>
+	</planet>
+
+	<planet>
+		<Character>Data</Character>
+		<Planetname>		Venus							</Planetname>
+		<Avgdiameter>		12,104 km						</Avgdiameter>
+		<Avgdistancefromsun>	108 million km (.722 AU)				</Avgdistancefromsun>
+		<Closesttoearth>	38 million km							</Closesttoearth>
+		<Type>			Terrestrial						</Type>
+		<Orbitperiod>		225 days						</Orbitperiod>
+		<Lengthofday>		116d 18h						</Lengthofday>
+		<Escapevelocity>	10.36 km/s						</Escapevelocity>
+		<Satellites>		0							</Satellites>
+		<Brieffacts>		The hottest planet due to thick atmosphere prevent
+					heat from excaping. Can be seen as the brightest star
+					during daylight  Close cousin to Earth.			</Brieffacts>
+	</planet>
+
+	<planet>
+		<Character>Data</Character>
+		<Planetname>		Earth							</Planetname>
+		<Avgdiameter>		12,742 km						</Avgdiameter>
+		<Avgdistancefromsun>	150 million km (1 AU)					</Avgdistancefromsun>
+		<Closesttoearth>	0							</Closesttoearth>
+		<Type>			Terrestrial						</Type>
+		<Orbitperiod>		365.25 days						</Orbitperiod>
+		<Lengthofday>		24 hours						</Lengthofday>
+		<Escapevelocity>	11.186 km/s						</Escapevelocity>
+		<Satellites>		1							</Satellites>
+		<Brieffacts>		The only planet in the Solar System that sustain life.	</Brieffacts>
+	</planet>
+
+	<planet>
+		<Character>Data</Character>
+		<Planetname>		Mars							</Planetname>
+		<Avgdiameter>		6,779 km						</Avgdiameter>
+		<Avgdistancefromsun>	228 million km (1.52 AU)				</Avgdistancefromsun>
+		<Closesttoearth>	65 million km						</Closesttoearth>
+		<Type>			Terrestrial						</Type>
+		<Orbitperiod>		1.8808 years						</Orbitperiod>
+		<Lengthofday>		1d 0h 40m						</Lengthofday>
+		<Escapevelocity>	5.027 km/s						</Escapevelocity>
+		<Satellites>		2							</Satellites>
+		<Brieffacts>		Known as the Red Planet due to high presence of
+					iron oxide. Scientists are still searching for clues
+					for life on Mars.					</Brieffacts>
+	</planet>
+
+	<planet>
+		<Character>Data</Character>
+		<Planetname>		Jupiter							</Planetname>
+		<Avgdiameter>		142,984 km						</Avgdiameter>
+		<Avgdistancefromsun>	779 million km (5.20 AU)				</Avgdistancefromsun>
+		<Closesttoearth>	588 million km						</Closesttoearth>
+		<Type>			Gas Giant						</Type>
+		<Orbitperiod>		11.8618 years						</Orbitperiod>
+		<Lengthofday>		9h 56m							</Lengthofday>
+		<Escapevelocity>	59.5 km/s						</Escapevelocity>
+		<Satellites>		67							</Satellites>
+		<Brieffacts>		The largest planet, & largest gas giant, in the Solar
+					System							</Brieffacts>
+	</planet>
+
+	<planet">
+		<Character>Data</Character>
+		<Planetname>		Saturn							</Planetname>
+		<Avgdiameter>		120,536 km						</Avgdiameter>
+		<Avgdistancefromsun>	1.43 billion km (9.58 AU)				</Avgdistancefromsun>
+		<Closesttoearth>	1.2 billion km						</Closesttoearth>
+		<Type>			Gas Giant						</Type>
+		<Orbitperiod>		29.4571 years						</Orbitperiod>
+		<Lengthofday>		10h 39m							</Lengthofday>
+		<Escapevelocity>	35.5 km/s						</Escapevelocity>
+		<Satellites>		62							</Satellites>
+		<Brieffacts>		Saturn has a prominent ring system that consists of
+					nine continuous main rings and three discontinuous arcs,
+					composed mostly of ice particles with a smaller amount
+					of rocky debris and dust.				</Brieffacts>
+	</planet>
+
+	<planet>
+		<Character>Data</Character>
+		<Planetname>		Uranus							</Planetname>
+		<Avgdiameter>		51,118 km						</Avgdiameter>
+		<Avgdistancefromsun>	2.88 billion km (19.2 AU)				</Avgdistancefromsun>
+		<Closesttoearth>	2.57 billion km						</Closesttoearth>
+		<Type>			Gas Giant						</Type>
+		<Orbitperiod>		84.32years						</Orbitperiod>
+		<Lengthofday>		17h 14m							</Lengthofday>
+		<Escapevelocity>	21.3 km/s						</Escapevelocity>
+		<Satellites>		27							</Satellites>
+		<Brieffacts>		Uranus has an axial tilt of 97.77°, so its axis of
+					rotation is approximately parallel with the plane of
+					the Solar System. This gives it seasonal changes
+					completely unlike those of the other major planets.	</Brieffacts>
+	</planet>
+
+	<planet>
+		<Character>Data</Character>
+		<Planetname>		Neptune							</Planetname>
+		<Avgdiameter>		49,532 km						</Avgdiameter>
+		<Avgdistancefromsun>	4.50 billion km (30.1 AU)				</Avgdistancefromsun>
+		<Closesttoearth>	4.3 billion km						</Closesttoearth>
+		<Type>			Gas Giant						</Type>
+		<Orbitperiod>		164.79 years						</Orbitperiod>
+		<Lengthofday>		16h 6m							</Lengthofday>
+		<Escape velocity>	23.5 km/s						</Escapevelocity>
+		<Satellites>		14							</Satellites>
+		<Brieffacts>		Neptune is the eighth and farthest planet from the Sun
+					in the Solar System. It is the fourth-largest planet by
+					diameter and the third-largest by mass. Among the
+					gaseous planets in the solar system, Neptune is the most
+					dense.							</Brieffacts>
+	</planet>
+
+	<planet">
+		<Character>Data</Character>
+		<Planetname>		Pluto							</Planetname>
+		<Avgdiameter>		2,302 km						</Avgdiameter>
+		<Avgdistancefromsun>	5.91 billion km (39.5 AU)				</Avgdistancefromsun>
+		<Closesttoearth>	4.28 billion km						</Closesttoearth>
+		<Type>			Kuiper planet (Not a planet)				</Type>
+		<Orbitperiod>		247.68 y						</Orbitperiod>
+		<Lengthofday>		6d.4h							</Lengthofday>
+		<Escapevelocity>	1.229 km/s						</Escapevelocity>
+		<Satellites>		5							</Satellites>
+		<Brieffacts>		No longer consider as a planet since 2005. It is belong
+					to Kuiper-belt objects. Pluto is composed primarily of
+					rock and ice and is relatively small, approximately
+					one-sixth the mass of the Earth's Moon and one-third
+					its volume.						</Brieffacts>
+	</planet>
+
+</solar system>
